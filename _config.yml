@@ -53,3 +53,6 @@ include: ["_pages"]
 # Disable Feed in footer
 atom_feed:
   hide: true
+
+plugins:
+  - jekyll-include-cache
