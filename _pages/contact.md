@@ -1,6 +1,7 @@
 ---
 permalink: /contact
-layout: splash
+layout: single
+title: Contact Us
 ---
 
 Please reach out using the form below and we will get back to you as soon as possible!
