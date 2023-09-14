@@ -12,6 +12,8 @@ Please reach out using the form below and we will get back to you as soon as pos
     <input type="text" name="name" id="full-name" required="">
     <label for="email-address">Email Address</label>
     <input type="email" name="_replyto" id="email-address" required="">
+    <label for="phone">Phone Number (optional)</label>
+    <input type="phone" name="phone" id="phone" >
     <label for="message">Message</label>
     <textarea rows="5" name="message" id="message" required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
