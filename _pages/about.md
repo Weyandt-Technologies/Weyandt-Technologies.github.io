@@ -31,7 +31,7 @@ title: Meet the Founder
 <body>
     <div class="row">
         <div class="column_left">
-          <img style="float: left;" src="assets/images/penguin.jpg">
+          <img style="float: left;" src="/assets/images/penguin.jpg">
         </div>
         <div class="column_right">
             <h1>Blackfooted Penguin</h1>
