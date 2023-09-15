@@ -2,6 +2,10 @@
 permalink: /contact
 layout: single
 title: Contact Us
+header:
+  overlay_color: "#000"
+  overlay_filter: "linear-gradient(to right, rgba(0, 0, 0, 0.95), 75%, rgba(255, 255, 255, 0.0))"
+  overlay_image: /assets/images/gear_splash.jpg
 ---
 
 Please reach out using the form below and we will get back to you as soon as possible!

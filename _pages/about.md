@@ -2,6 +2,10 @@
 permalink: /about
 layout: single
 title: Meet the Founder
+header:
+  overlay_color: "#000"
+  overlay_filter: "linear-gradient(to right, rgba(0, 0, 0, 0.95), 75%, rgba(255, 255, 255, 0.0))"
+  overlay_image: /assets/images/gear_splash.jpg
 ---
 
 <head>
